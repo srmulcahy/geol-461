@@ -2,6 +2,8 @@
 .DS_Store
 Desktop.ini
 *.pdf
+*.odt
+*.ods
 
 # Thumbnail cache files
 ._*
