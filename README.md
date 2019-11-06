@@ -9,3 +9,4 @@ This repository contains Python Jupyter notebooks for problem sets in an introdu
 |01		|Introduction to Python			|
 |02		|Thermodynamics of Chemical Reactions	|
 |03		|Kinetics of Chemical Reactions		|
+|04		|Radiogenic Isotopes			|
