@@ -10,4 +10,4 @@ This repository contains Python Jupyter notebooks for problem sets in an introdu
 |02		|Thermodynamics of Chemical Reactions	|
 |03		|Kinetics of Chemical Reactions		|
 |04		|Radiogenic Isotopes			|
-|05		|Satble Isotopes			|
+|05		|Stable Isotopes			|
